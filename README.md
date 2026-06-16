@@ -2,7 +2,7 @@
 
 > Honest reviews of AI tools from the perspective of someone who ships production code. No affiliate fluff — what worked, what didn't, and what I'd reach for again.
 
-**Maintained by:** [@arunjalota](https://github.com/arunjalota) — Tech Lead in Toronto, 13+ years building software.
+**Maintained by:** [@arunjalota](https://github.com/arunjalota) — Technical Director in Toronto, 13+ years building software.
 
 ## Rating legend
 
